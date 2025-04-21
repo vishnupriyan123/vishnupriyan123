@@ -27,8 +27,6 @@
 📊 Generates insights & visualizations using AI and Streamlit  
 🧠 Tech: Selenium, Pandas, Together AI, E2B, CRON
 
-![pipeline-gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW04ejB5Z3Z2dWxxYjA3N3V6dzd0Mzh4c3Uwb3oyYjFyNnZ6eXd1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif)
-
 ---
 
 ### 📫 How to Reach Me
