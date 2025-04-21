@@ -22,13 +22,6 @@
 
 ---
 
-### 🧩 Featured Project: Wedding Venues Data Pipeline
-🚧 Live project to scrape, clean, and analyze wedding venue listings from Hitched.co.uk  
-📊 Generates insights & visualizations using AI and Streamlit  
-🧠 Tech: Selenium, Pandas, Together AI, E2B, CRON
-
----
-
 ### 📫 How to Reach Me
 
 <p align="center">
