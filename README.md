@@ -1,6 +1,6 @@
 <h2 align="center">Hola! 👋, This is Vish.</h2>
 <p align="center">
-  🚀 Data Scientist | 💻 Building smart pipelines | 🌍 Open to roles in UK & remote
+  🚀 Data Scientist | 💻 Building smart data pipelines and AI solutions | 🌍 Open to roles in UK & remote
 </p>
 
 ---
