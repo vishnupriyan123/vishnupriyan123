@@ -25,24 +25,24 @@
 ### 📫 More About Me and my Works
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishnupriyan-/" target="_blank">
+  <a href="https://www.linkedin.com/in/vishnupriyan-/" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/vishnupriyanFilms/videos" target="_blank">
+  <a href="https://www.youtube.com/c/vishnupriyanFilms/videos" target="_blank" title="YouTube">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/vishnupriyan7" target="_blank">
+  <a href="https://www.kaggle.com/vishnupriyan7" target="_blank" title="Kaggle">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://public.tableau.com/app/profile/vishnupriyan.t.v/vizzes" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png](https://img.icons8.com/windows/32/FFFFFF/tableau-software.png)" alt="Tableau" width="40" height="40"/>
+  <a href="https://public.tableau.com/app/profile/vishnupriyan.t.v/vizzes" target="_blank" title="Tableau">
+    <img src="https://img.icons8.com/fluency/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
   </a>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:vishnupriyantvijayan@gmail.com" target="_blank">
+  <a href="mailto:vishnupriyantvijayan@gmail.com" target="_blank" title = "Gmail">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
