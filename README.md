@@ -38,7 +38,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://public.tableau.com/app/profile/vishnupriyan.t.v/vizzes" target="_blank" title="Tableau">
-    <img src="https://img.icons8.com/fluency/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+    <img src="https://img.icons8.com/windows/32/FFFFFF/tableau-software.png" alt="Tableau" width="40" height="40"/>
   </a>
   </a>
   &nbsp;&nbsp;&nbsp;
