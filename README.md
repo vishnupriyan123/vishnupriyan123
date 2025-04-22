@@ -22,13 +22,9 @@
 
 ---
 
-### 📫 How to Reach Me
+### 📫 More About Me and my Works
 
 <p align="center">
-  <a href="https://x.com/imVpriyan" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="X" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vishnupriyan-/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -41,8 +37,12 @@
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/profile/vishnupriyan.t.v/vizzes" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-tableau-software-an-american-interactive-data-visualization-software-company-logo-color-tal-revivo.png" alt="Tableau" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:vishnupriyantvijayan@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/new-post.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
