@@ -1,11 +1,18 @@
-<h2 align="center">Hola! 👋, This is Vish.</h2>
+<h2 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , This is Vish.</h2>
 <p align="center">
-  🚀 Data Scientist | 💻 Building smart data pipelines and AI solutions | 🌍 Open to roles in UK & remote
+  <p align="center">
+  🚀 Data Specialist | 🛠️ Smart Data Pipelines & AI Solutions | 🌍 Open to data roles in UK & Remote
+</p>
+
+</p>
+
+<p>
+💼 3 years as Data Analyst for Goldman Sachs & Mercedes-Benz | 🎓 MSc in Data Science & AI | 🚀 Upskilling in Data Engineering
 </p>
 
 ---
 
-### 🔧 Tools & Technologies I Use
+### 🧑‍💻 Tech Stack I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -22,7 +29,7 @@
 
 ---
 
-### 📫 More About Me and my Works
+### 📫 More About Me and My Works
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnupriyan-/" target="_blank" title="LinkedIn">
@@ -48,5 +55,8 @@
 </p>
 
 ---
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyan123&layout=compact&theme=dark)
+
+![View count](https://komarev.com/ghpvc/?username=vishnupriyan123)
 
 > ⚡ “Data is only as powerful as the pipeline behind it.”
