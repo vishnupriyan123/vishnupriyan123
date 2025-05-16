@@ -58,5 +58,3 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyan123&layout=compact&theme=dark)
 
 ![View count](https://komarev.com/ghpvc/?username=vishnupriyan123)
-
-> ⚡ “Data is only as powerful as the pipeline behind it.”
