@@ -1,12 +1,10 @@
-<h2>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , This is Vish.</h2>
-<p >
-  <p >
+<h2 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , This is Vish.</h2>
+
+  <p align="center" >
   🚀 Data Specialist | 🛠️ Smart Data Pipelines & AI Solutions | 🌍 Open to data roles in UK & Remote
 </p>
 
-</p>
-
-<p>
+<p align="center">
 💼 3 years as Data Analyst for Goldman Sachs & Mercedes-Benz | 🎓 MSc in Data Science & AI | 🚀 Upskilling in Data Engineering
 </p>
 
@@ -14,19 +12,18 @@
 
 ### 🧑‍💻 Tech Stack I Use
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-8C8C8C?style=flat&logo=beautifulsoup&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_Gym-000000?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 </p>
 
 
@@ -34,7 +31,7 @@
 
 ### 📫 More About Me and My Works
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/vishnupriyan-/" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -58,6 +55,7 @@
 </p>
 
 ---
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyan123&layout=compact&theme=dark)
 
 ![View count](https://komarev.com/ghpvc/?username=vishnupriyan123)
